@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GSP_Wk10-2071.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\GSP_Wk10Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\GSP_Wk10.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\GSP_Wk10Character.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\GSP_Wk10GameMode.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\MyPlayerController.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\MyUserWidget.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\GSP_Wk10.init.gen.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\GSP_Wk10Character.gen.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\GSP_Wk10GameMode.gen.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\MyPlayerController.gen.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\MyUserWidget.gen.cpp.obj"
+"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Default.rc2.res"
+/OUT:"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\UE4Editor-GSP_Wk10-2071.lib"

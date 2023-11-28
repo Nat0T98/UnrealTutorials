@@ -1,0 +1,29 @@
+﻿  Cleaning GSP_Wk10Editor and UnrealHeaderTool binaries...
+UnrealBuildTool : error : Unable to delete C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Binaries\Win64\UE4Editor-GSP_Wk10.dll (Unable to delete 'C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Binaries\Win64\UE4Editor-GSP_Wk10.dll': Access to the path 'C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Binaries\Win64\UE4Editor-GSP_Wk10.dll' is denied.)
+  Creating makefile for GSP_Wk10Editor (no existing makefile)
+  Parsing headers for GSP_Wk10Editor
+    Running UnrealHeaderTool "C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\GSP_Wk10.uproject" "C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\GSP_Wk10Editor\Development\GSP_Wk10Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\6jowen88\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for GSP_Wk10Editor in 3.1780717 seconds
+  Building GSP_Wk10Editor...
+  Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 13 actions with 8 processes...
+    [1/13] Default.rc2
+    [2/13] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [3/13] GSP_Wk10.cpp
+    [4/13] GSP_Wk10.init.gen.cpp
+    [5/13] MyPlayerController.gen.cpp
+    [6/13] GSP_Wk10Character.gen.cpp
+    [7/13] GSP_Wk10GameMode.cpp
+    [8/13] GSP_Wk10GameMode.gen.cpp
+    [9/13] GSP_Wk10Character.cpp
+    [10/13] MyPlayerController.cpp
+    [11/13] UE4Editor-GSP_Wk10-0001.lib
+       Creating library C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\UE4Editor-GSP_Wk10-0001.lib and object C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\UE4Editor-GSP_Wk10-0001.exp
+    [12/13] UE4Editor-GSP_Wk10-0001.dll
+       Creating library C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\UE4Editor-GSP_Wk10-0001.suppressed.lib and object C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\UE4Editor-GSP_Wk10-0001.suppressed.exp
+    [13/13] GSP_Wk10Editor.target
+  Total time in Parallel executor: 33.88 seconds
+  Total execution time: 38.73 seconds
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(50,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.27\Engine\Build\BatchFiles\Rebuild.bat" GSP_Wk10Editor Win64 Development -Project="C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\GSP_Wk10.uproject" -WaitMutex -FromMsBuild" exited with code -1.

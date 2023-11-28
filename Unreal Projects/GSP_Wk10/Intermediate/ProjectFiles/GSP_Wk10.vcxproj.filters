@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GSP_Wk10.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{580CC4EC-E7CC-4002-BB1E-B7D4F1D3BA8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GSP_Wk10.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GSP_Wk10Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AC1D0E2E-C5D1-4C1E-8E21-FEB4184E846B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GSP_Wk10">
+      <UniqueIdentifier>{9CA9B4E7-0E49-45EC-A728-B15E0DAD7358}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GSP_Wk10\GSP_Wk10.Build.cs">
+      <Filter>Source\GSP_Wk10</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GSP_Wk10\GSP_Wk10.cpp">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GSP_Wk10\GSP_Wk10.h">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GSP_Wk10\GSP_Wk10Character.cpp">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GSP_Wk10\GSP_Wk10Character.h">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GSP_Wk10\GSP_Wk10GameMode.cpp">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GSP_Wk10\GSP_Wk10GameMode.h">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GSP_Wk10\MyPlayerController.cpp">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GSP_Wk10\MyPlayerController.h">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GSP_Wk10\MyUserWidget.cpp">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GSP_Wk10\MyUserWidget.h">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

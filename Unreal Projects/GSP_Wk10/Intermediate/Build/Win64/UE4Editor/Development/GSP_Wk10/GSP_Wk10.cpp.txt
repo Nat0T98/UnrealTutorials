@@ -1,0 +1,2 @@
+C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.GSP_Wk10.h
+C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Source\GSP_Wk10\GSP_Wk10.h
