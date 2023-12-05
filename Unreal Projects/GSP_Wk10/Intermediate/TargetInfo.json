@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "GSP_Wk10",
-			"Path": "C:\\Users\\6jowen88\\Documents\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10.Target.cs",
+			"Path": "C:\\Users\\6jowen88\\Downloads\\UnrealTutorials\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "GSP_Wk10Editor",
-			"Path": "C:\\Users\\6jowen88\\Documents\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10Editor.Target.cs",
+			"Path": "C:\\Users\\6jowen88\\Downloads\\UnrealTutorials\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

@@ -1,5 +1,5 @@
-C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.GSP_Wk10.h
-C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Source\GSP_Wk10\MyUserWidget.h
+C:\Users\6jowen88\Downloads\UnrealTutorials\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.GSP_Wk10.h
+C:\Users\6jowen88\Downloads\UnrealTutorials\Unreal Projects\GSP_Wk10\Source\GSP_Wk10\MyUserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
@@ -99,4 +99,4 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
-C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Inc\GSP_Wk10\MyUserWidget.generated.h
+C:\Users\6jowen88\Downloads\UnrealTutorials\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Inc\GSP_Wk10\MyUserWidget.generated.h

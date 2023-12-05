@@ -1,5 +1,5 @@
-C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.GSP_Wk10.h
+C:\Users\6jowen88\Downloads\UnrealTutorials\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.GSP_Wk10.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Source\GSP_Wk10/MyPlayerController.h
-C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Inc\GSP_Wk10\MyPlayerController.generated.h
+C:\Users\6jowen88\Downloads\UnrealTutorials\Unreal Projects\GSP_Wk10\Source\GSP_Wk10/MyPlayerController.h
+C:\Users\6jowen88\Downloads\UnrealTutorials\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Inc\GSP_Wk10\MyPlayerController.generated.h

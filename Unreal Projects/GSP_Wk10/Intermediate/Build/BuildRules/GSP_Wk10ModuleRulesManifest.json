@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\6jowen88\\Documents\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10\\GSP_Wk10.Build.cs",
-		"C:\\Users\\6jowen88\\Documents\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10.Target.cs",
-		"C:\\Users\\6jowen88\\Documents\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10Editor.Target.cs"
+		"C:\\Users\\6jowen88\\Downloads\\UnrealTutorials\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10\\GSP_Wk10.Build.cs",
+		"C:\\Users\\6jowen88\\Downloads\\UnrealTutorials\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10.Target.cs",
+		"C:\\Users\\6jowen88\\Downloads\\UnrealTutorials\\Unreal Projects\\GSP_Wk10\\Source\\GSP_Wk10Editor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

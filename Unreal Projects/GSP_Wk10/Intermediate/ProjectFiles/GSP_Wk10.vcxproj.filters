@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GSP_Wk10.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{580CC4EC-E7CC-4002-BB1E-B7D4F1D3BA8E}</UniqueIdentifier>
+      <UniqueIdentifier>{54923DC5-F39C-4CDC-927C-650A8E3FC8E4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{AC1D0E2E-C5D1-4C1E-8E21-FEB4184E846B}</UniqueIdentifier>
+      <UniqueIdentifier>{ED13EB51-8C10-448E-A4C4-4E61F6F00E26}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GSP_Wk10">
-      <UniqueIdentifier>{9CA9B4E7-0E49-45EC-A728-B15E0DAD7358}</UniqueIdentifier>
+      <UniqueIdentifier>{526BA791-1DCC-476C-BADA-0549938E2131}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10\GSP_Wk10.Build.cs">
       <Filter>Source\GSP_Wk10</Filter>
@@ -65,5 +65,47 @@
     <ClInclude Include="..\..\Source\GSP_Wk10\MyUserWidget.h">
       <Filter>Source\GSP_Wk10</Filter>
     </ClInclude>
+    <Filter Include="Source\GSP_Wk10\.vs">
+      <UniqueIdentifier>{7B95F9FC-86CE-4CCC-AE93-81684DDAF71A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GSP_Wk10\.vs\ProjectSettings.json">
+      <Filter>Source\GSP_Wk10\.vs</Filter>
+    </None>
+    <None Include="..\..\Source\GSP_Wk10\.vs\slnx.sqlite">
+      <Filter>Source\GSP_Wk10\.vs</Filter>
+    </None>
+    <None Include="..\..\Source\GSP_Wk10\.vs\VSWorkspaceState.json">
+      <Filter>Source\GSP_Wk10\.vs</Filter>
+    </None>
+    <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10">
+      <UniqueIdentifier>{B6F3F1F9-7D80-4C30-867F-2AA7D70C3B23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\FileContentIndex">
+      <UniqueIdentifier>{0C5F4C7B-22E8-431D-84DA-39605A368578}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\FileContentIndex\4d05b61d-c193-49d4-8c3b-7ca15b2e78b7.vsidx">
+      <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\FileContentIndex</Filter>
+    </None>
+    <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17">
+      <UniqueIdentifier>{06E2FA91-F705-4FEC-B52E-E304B62FDC65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\v17\.wsuo">
+      <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\v17</Filter>
+    </None>
+    <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\v17\Browse.VC.db">
+      <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\v17</Filter>
+    </None>
+    <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch">
+      <UniqueIdentifier>{C54AD3DD-E228-4247-83A0-BDA94C928FEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH">
+      <UniqueIdentifier>{E6B6DD47-5397-441B-A736-6D7C4231F41C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH\a2eef0d1d3fb2dd">
+      <UniqueIdentifier>{16202E19-9A75-4B82-AED7-2FF789313E35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH\a2eef0d1d3fb2dd\GSP_WK10CHARACTER.ipch">
+      <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH\a2eef0d1d3fb2dd</Filter>
+    </None>
   </ItemGroup>
 </Project>

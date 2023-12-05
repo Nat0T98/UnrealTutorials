@@ -266,8 +266,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\GSP_Wk10Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\GSP_Wk10Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\GSP_Wk10Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Source\GSP_Wk10\MyPlayerController.cpp"
-/FI"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.h"
+/FI"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\Definitions.GSP_Wk10.h"
 /Fo"C:\Users\6jowen88\Documents\Unreal Projects\GSP_Wk10\Intermediate\Build\Win64\UE4Editor\Development\GSP_Wk10\MyPlayerController.cpp.obj"
 /TP
 /GR-
