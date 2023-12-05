@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GSP_Wk10.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{54923DC5-F39C-4CDC-927C-650A8E3FC8E4}</UniqueIdentifier>
+      <UniqueIdentifier>{EAE8E51B-509A-4A43-A58E-10323E9BFE4F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{ED13EB51-8C10-448E-A4C4-4E61F6F00E26}</UniqueIdentifier>
+      <UniqueIdentifier>{537CB03F-17AA-4E3A-8FA0-B40D9A112D0A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GSP_Wk10">
-      <UniqueIdentifier>{526BA791-1DCC-476C-BADA-0549938E2131}</UniqueIdentifier>
+      <UniqueIdentifier>{E679D760-A45E-4973-86F5-305E251ABA55}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10\GSP_Wk10.Build.cs">
       <Filter>Source\GSP_Wk10</Filter>
@@ -53,6 +53,12 @@
     <ClInclude Include="..\..\Source\GSP_Wk10\GSP_Wk10GameMode.h">
       <Filter>Source\GSP_Wk10</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\GSP_Wk10\MyGraphicsActor.cpp">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GSP_Wk10\MyGraphicsActor.h">
+      <Filter>Source\GSP_Wk10</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\GSP_Wk10\MyPlayerController.cpp">
       <Filter>Source\GSP_Wk10</Filter>
     </ClCompile>
@@ -66,7 +72,7 @@
       <Filter>Source\GSP_Wk10</Filter>
     </ClInclude>
     <Filter Include="Source\GSP_Wk10\.vs">
-      <UniqueIdentifier>{7B95F9FC-86CE-4CCC-AE93-81684DDAF71A}</UniqueIdentifier>
+      <UniqueIdentifier>{8CE4DB59-7C75-4CDE-91E8-0C6FB1071C32}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10\.vs\ProjectSettings.json">
       <Filter>Source\GSP_Wk10\.vs</Filter>
@@ -78,16 +84,16 @@
       <Filter>Source\GSP_Wk10\.vs</Filter>
     </None>
     <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10">
-      <UniqueIdentifier>{B6F3F1F9-7D80-4C30-867F-2AA7D70C3B23}</UniqueIdentifier>
+      <UniqueIdentifier>{0DCBE7F7-91BA-4F2B-85A7-1348EBA9A3FF}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\FileContentIndex">
-      <UniqueIdentifier>{0C5F4C7B-22E8-431D-84DA-39605A368578}</UniqueIdentifier>
+      <UniqueIdentifier>{ADAAB3A6-7B9C-4465-AFC7-F44490933399}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\FileContentIndex\4d05b61d-c193-49d4-8c3b-7ca15b2e78b7.vsidx">
       <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\FileContentIndex</Filter>
     </None>
     <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17">
-      <UniqueIdentifier>{06E2FA91-F705-4FEC-B52E-E304B62FDC65}</UniqueIdentifier>
+      <UniqueIdentifier>{BDB2A9DE-CA28-49C5-B465-9FC5A7AC227B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\v17\.wsuo">
       <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\v17</Filter>
@@ -96,13 +102,13 @@
       <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\v17</Filter>
     </None>
     <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch">
-      <UniqueIdentifier>{C54AD3DD-E228-4247-83A0-BDA94C928FEC}</UniqueIdentifier>
+      <UniqueIdentifier>{590C686D-3A5E-4C7F-8342-8F79EE9F4DFE}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH">
-      <UniqueIdentifier>{E6B6DD47-5397-441B-A736-6D7C4231F41C}</UniqueIdentifier>
+      <UniqueIdentifier>{0E1CDAB9-3B0D-4A47-9DDB-E6A9FDD9DB84}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH\a2eef0d1d3fb2dd">
-      <UniqueIdentifier>{16202E19-9A75-4B82-AED7-2FF789313E35}</UniqueIdentifier>
+      <UniqueIdentifier>{C9659B90-524B-49A0-BAE6-91A5F98B624F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH\a2eef0d1d3fb2dd\GSP_WK10CHARACTER.ipch">
       <Filter>Source\GSP_Wk10\.vs\GSP_Wk10\v17\ipch\AutoPCH\a2eef0d1d3fb2dd</Filter>
